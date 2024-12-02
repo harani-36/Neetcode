@@ -61,6 +61,10 @@ O(n)
 O(n)  
 - Extra space is used for the HashMap to store the elements and their indices.
 
+Two-pointer approach :
+If the input is sorted can be solved in O(logn) time. 
+(Just to return true or false can use Two pointer approach irrespective of input).
+
 ---
 
  Comparison
